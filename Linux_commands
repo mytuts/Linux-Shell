@@ -2,3 +2,4 @@
 2. Echo $0 —————————————>to find the shell we are using 
 3. Cat /etc/shells/——————————> to find the path of the shells 
 chmod -R (permission you want to give )(folder name )---------> with this formate it will change the permissions for entire files inside the folder 
+chown -R (to which user you want to change to ) (folder name)
